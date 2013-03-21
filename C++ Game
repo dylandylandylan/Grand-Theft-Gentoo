@@ -11,7 +11,7 @@ int main()
   Sleep(5000)
   cout << "Stallman, wake up!" << endl;
   Sleep(500);
-  cout << "You wake up covered in stale cheetos from the a long night of checking troll emails from /g/." << endl;
+  cout << "You wake up covered in stale cheetos from a long night of checking troll emails from /g/." << endl;
   Sleep(500);
   cout << "You look at the clock, it's 2 in the afternoon." << endl;
   Sleep(500);
